@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 import { FaTrash } from 'react-icons/fa';
 import { AiFillEdit } from 'react-icons/ai';
-import styles from '../styles/TodoItem.css';
+import styles from '../styles/TodoItem.module.css';
 
 const TodoItem = ({
   itemProp, handleChange, delTodo, setUpdate,
