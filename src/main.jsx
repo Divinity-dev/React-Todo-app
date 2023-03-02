@@ -11,4 +11,3 @@ root.render(
     <TodoApp />
   </React.StrictMode>,
 );
-

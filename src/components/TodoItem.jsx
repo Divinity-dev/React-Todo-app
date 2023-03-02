@@ -77,4 +77,3 @@ TodoItem.propTypes = {
 };
 
 export default TodoItem;
-  

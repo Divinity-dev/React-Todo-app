@@ -50,4 +50,3 @@ InputTodo.propTypes = {
 };
 
 export default InputTodo;
-  
